@@ -63,4 +63,4 @@ GET API
 "http://api.mapmycrop.com/soil?polyid=idValue"
 here idValue is polyid received from POST API response.
 
-![getData!](getDataFromResponse.png)
+![](https://github.com/ROHAN28SAM/Get-Post-API-assignment/blob/main/images/getDataFromResponse.png)
