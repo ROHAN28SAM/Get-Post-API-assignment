@@ -137,7 +137,7 @@
         redirect: 'follow'
       };
 
-      fetch("http://api.agromonitoring.com/agro/1.0/polygons?appid=ecca51ccd6bec9eacecb4749dfd3ec3f", requestOptions).then((response)=>{
+      fetch("http://api.mapmycrop.com/polygon", requestOptions).then((response)=>{
         return response.json();
       }).then((data)=>{
         console.log(data);
