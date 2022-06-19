@@ -47,7 +47,7 @@ Use following body (Update the coordinates for each new request)
         }
       }
 
-(./getPolyidFromResponse.png)
+![](https://github.com/ROHAN28SAM/Get-Post-API-assignment/blob/main/images/getPolyidFromResponse.png)
 
 
 # POST API 
