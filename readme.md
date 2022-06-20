@@ -6,7 +6,7 @@ Post method is mainly used at the client (Browser) side to send data to a Specif
 Using POST API, client request to the server and server will send the releavent response to the client.
 
 POST API
-"http://api.agromonitoring.com/agro/1.0/polygons?appid=test" 
+"http://api.mapmycrop.com/polygon" 
 here appid is Personal API key
 
 Use following body (Update the coordinates for each new request)
